@@ -1,16 +1,21 @@
 # Projectsdnel
 
-Landing page simples para apresentar projetos e experiencias de desenvolvimento.
+Landing page para organizar e apresentar projetos de desenvolvimento.
+
+## Acesse
+
+https://gilvandnel.github.io/projectsdnel/
+
+## Objetivo
+
+Servir como uma pagina simples de apoio ao portfolio, reunindo projetos, links e apresentacao visual.
 
 ## Tecnologias
 
 - HTML
 - CSS
 - JavaScript
-
-## Como visualizar
-
-Abra `index.html` em um navegador.
+- GitHub Pages
 
 ## Estrutura
 
@@ -18,8 +23,8 @@ Abra `index.html` em um navegador.
 - `style.css`: estilos
 - `script.js`: interacoes
 
-## Proximos ajustes
+## Possiveis melhorias
 
-- Adicionar links para projetos selecionados.
-- Melhorar descricao e chamada principal.
-- Conectar com o perfil principal do GitHub.
+- Adicionar cards para os projetos mais fortes.
+- Conectar com o README de perfil do GitHub.
+- Padronizar identidade visual com o portfolio principal.
